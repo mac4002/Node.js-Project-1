@@ -1,3 +1,5 @@
+const module1 = require('./module1');
+
 console.log('Bonjour');
 
 // [1,2,3,4,5].forEach(elem => {console.log(elem)  
