@@ -1,0 +1,1 @@
+console.log('Chargement du task 2');
